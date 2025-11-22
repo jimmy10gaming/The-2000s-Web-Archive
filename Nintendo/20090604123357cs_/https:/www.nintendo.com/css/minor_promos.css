@@ -1,0 +1,78 @@
+/**
+ * minorPromos
+ */
+ 
+#minorPromos h3 {
+	display: none;
+}
+
+#minorPromos {
+	overflow: auto;
+	margin-left: -4px;
+	margin-right: -8px;
+	padding-bottom:10px;
+}
+
+#minorPromos .promo {
+  background:transparent url('https://web.archive.org/web/20090604123448im_/http://www.nintendo.com/images/interface/minor_promo/background.png') top left no-repeat;
+  
+  float:left;
+  
+  position: relative;
+  height: 180px;
+  
+  padding:3px 8px 10px 4px;
+
+  width:236px;
+}
+
+#minorPromos .last {
+  margin-right: -8px;
+}
+
+#minorPromos a.continue {
+  margin-right: 12px;
+  margin-bottom: 26px;
+}
+
+
+/**
+ * Image promo type
+ */
+ 
+#minorPromos .image img {
+  margin: 1px 0 0 1px;
+}
+
+#minorPromos .image a.more {
+  right: 9px;
+  bottom: 11px;
+}
+#minorPromos .image h4 {
+	padding: 8px 24px 2px 12px;
+}
+#minorPromos .image p{
+	padding: 0px 27px 0px 12px;
+	line-height:11px;
+}
+
+
+/*
+     FILE ARCHIVED ON 12:34:48 Jun 04, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:42:26 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.717
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.01
+  esindex: 0.015
+  cdx.remote: 40.065
+  LoadShardBlock: 430.703 (3)
+  PetaboxLoader3.datanode: 2105.77 (4)
+  load_resource: 1690.257
+*/

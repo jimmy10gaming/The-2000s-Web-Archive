@@ -1,0 +1,38 @@
+/**
+ * minorPromos
+ */
+ 
+#minorPromos .promo {
+  _height: 193px !important;
+}
+#minorPromos .image a.more {
+_position: absolute;
+_bottom:9px;
+_right:7px;
+}
+#minorPromos a.continue {
+  #margin-right: 24px;
+	_margin-right: 12px;
+}
+
+
+/*
+     FILE ARCHIVED ON 12:34:15 Jun 04, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:42:26 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.853
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.015
+  esindex: 0.017
+  cdx.remote: 36.275
+  LoadShardBlock: 109.125 (3)
+  PetaboxLoader3.datanode: 107.603 (4)
+  PetaboxLoader3.resolve: 120.103 (2)
+  load_resource: 1982.441
+*/
