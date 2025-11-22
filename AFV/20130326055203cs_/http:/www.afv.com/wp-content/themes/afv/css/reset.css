@@ -1,0 +1,95 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+em { font-style:italic; }
+strong{ font-family: 'MuseoSans700'; font-weight:normal;}
+
+@font-face {
+    font-family: 'MuseoSans300';
+    src: url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans-300-webfont.eot");
+    src: url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans-300-webfont.eot") format("embedded-opentype"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans-300-webfont.woff") format("woff"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans-300-webfont.ttf") format("truetype"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans-300-webfont.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'MuseoSans700';
+    src: url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans_2-webfont.eot");
+    src: url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans_2-webfont.eot") format("embedded-opentype"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans_2-webfont.woff") format("woff"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans_2-webfont.ttf") format("truetype"),
+         url("https://web.archive.org/web/20130426133303im_/http://www.afv.com/wp-content/themes/afv/fonts/museosans_2-webfont.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*
+     FILE ARCHIVED ON 13:33:03 Apr 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:03:00 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.705
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.012
+  esindex: 0.01
+  cdx.remote: 42.483
+  LoadShardBlock: 77.611 (3)
+  PetaboxLoader3.datanode: 91.726 (4)
+  load_resource: 89.481
+  PetaboxLoader3.resolve: 50.479
+*/

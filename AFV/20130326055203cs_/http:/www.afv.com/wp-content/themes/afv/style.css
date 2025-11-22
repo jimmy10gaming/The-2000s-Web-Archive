@@ -1,0 +1,1291 @@
+/*   
+Theme Name: AFV
+Theme URI: http://afv.com
+Description: This is just a BLANK starter WordPress Theme template -- WordPress v3.0.1
+Author: Dev Team
+Author URI: http://fbwmedia.com
+Version: 1.0
+*/
+
+* {
+	outline:none;
+}
+body {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/mainBg.jpg) no-repeat top;
+	width: 100%;
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	font-weight:normal;
+}
+#container {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/container-bg.png) repeat-y center;
+	width: 100%;
+}
+.main {
+	width: 988px;
+	margin: 0 auto;
+}
+.clear {
+	clear: both;
+	overflow: hidden;
+*overflow: visible;
+}
+.margin_right_0 {
+	margin-right: 0px !important;
+}
+.align_left {
+	float: left;
+}
+.align_right {
+	float: right;
+}
+hgroup {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/top-menu-bg.png) no-repeat;
+	width: 940px;
+	padding-left: 48px;
+	height: 63px;
+	margin-top: 25px;
+}
+hgroup h1 {
+	padding-top: 9px;
+	float: left;
+	width: 76px;
+	height: 43px;
+}
+.top_nav {
+	float: left;
+	width: 770px;
+	margin-left: 90px;
+}
+.top_nav ul li {
+	float: left;
+	padding-top: 3px;
+	margin: 0 5px;
+}
+.top_nav li a {
+	padding: 20px 0;
+	text-decoration: none;
+	display: block;
+	font-size: 18px;
+	color: #999;
+	width: 118px;
+	text-align: center;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.top_nav li a:hover, .top_nav li.current-menu-item a {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/top-menu-hover.png) no-repeat center;
+	color: #fff;
+}
+nav.main_nav {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/main-menu-bg.png) no-repeat left;
+	width: 988px;
+	height: 74px;
+	padding-top: 20px;
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	position:relative;
+	font-weight:normal;
+}
+nav.main_nav h2 {
+	float: left;
+	display: block;
+	color: #666666;
+	font-size: 14px;
+	padding: 18px 14px 0 20px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+nav.main_nav ul {
+	float: left;
+	display: block;
+}
+nav.main_nav ul.wp-tag-cloud {
+	width:690px;
+}
+nav.main_nav ul li {
+	float: left;
+	padding-top: 18px;
+}
+nav.main_nav li a {
+	margin: 0 15px;
+	text-decoration: none;
+	display: block;
+	font-size: 14px;
+	color: #4ab1d8;
+}
+nav.main_nav li.singin {
+	padding-top: 14px;
+	padding-right: 0px;
+	
+	/* disable SignIn */
+	/*display: none;*/
+	
+}
+nav.main_nav li.singin a {
+	color: #4ab1d8;
+	font-size: 21px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+	margin: 0 3px;
+}
+nav.main_nav li.singin a span {
+	color:#fe5d32;
+}
+.abc_box {
+	width: 171px;
+	padding: 0px 0 0 0px;
+	position: absolute;
+	top: 0px;
+	left:-171px;
+	color: #fff;
+	line-height: 23px;
+	font-size: 18px;
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	font-weight:normal;
+}
+.abc_box a {
+	text-decoration:none;
+}
+.abc_box a {
+	color: #fff;
+	text-decoration:none;
+}
+.abc_box-top {
+	width:171px;
+	height:74px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/new-episode-bg-top.png) no-repeat bottom left;
+}
+.abc_box-middle {
+	width:156px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/new-episode-bg-middle.png) repeat-y left;
+	padding:0 0 4px 15px;
+}
+.abc_box-bottom {
+	width:171px;
+	height:15px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/new-episode-bg-bottom.png) no-repeat top left;
+}
+.abc_box strong {
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+	font-size: 1.14em;
+}
+
+.video_box {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/video-bg.png) no-repeat;
+	width: 809px;
+	padding: 3px 0 0 157px;
+	margin: 8px 0 0 11px;
+	position: relative;
+}
+.video_box h2 {
+	font-size: 22px;
+	color: #4ab1d8;
+	text-decoration: none;
+	display: block;
+	margin: 20px 0 0 23px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.video_box h2 a {
+	font-size: 22px;
+	color: #4ab1d8;
+	text-decoration: none;
+	display: block;
+	margin: 30px 0 0 23px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.video_box .social_links {
+	margin: 10px 0 16px 23px;
+}
+.social_links ul li {
+	width: 85px!important;
+	float: left;
+	height: 24px!important;
+}
+.video_box .btn_play {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-large.png) no-repeat;
+	width: 69px;
+	height: 70px;
+	display: block;
+	top: 143px;
+	left: 46.3%;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+.sep_border {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) repeat-x bottom;
+	width: 948px;
+	margin: 0 auto;
+	height: 2px;
+}
+#content {
+	margin-top: 20px;
+}
+#content h2 {
+	color: #4ab1d8;
+	font-size: 21px;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) repeat-x bottom;
+	padding-bottom: 4px;
+	padding-left: 18px;
+	margin: 0 0 13px 8px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+#content h2 span {
+	color:#fe5d32;
+}
+.left_content {
+	width: 650px;
+	float: left;
+	margin-left: 12px;
+}
+.left_content h2 {
+	width: 180px;
+}
+.page-content h2 {
+	padding-left:0 !important;
+	width:auto !important;
+}
+.page-content .entry {
+	padding:0 0 0 8px;
+}
+.page-content .entry p {
+	font-size: 12px;
+	line-height:18px;
+	color:#5A5A5A;
+}
+.archive-page h2 {
+	width:auto !important;
+	float:left;
+	padding-right:21px;
+}
+.funny_clips_listing li {
+	float: left;
+	width: 318px;
+	height: 265px;
+	margin-right: 4px;
+}
+.funny_clips_listing li .video_bg {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/video-listing-bg.jpg) no-repeat top left;
+	padding: 6px 0 0 7px;
+	width: 311px;
+	height:180px;
+	position: relative;
+}
+.funny_clips_listing li .video_bg .btn_play {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-small.png) no-repeat;
+	width: 48px;
+	height: 47px;
+	display: block;
+	top: 68px;
+	left: 135px;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+.funny_clips_listing li h3 {
+	margin-left: 17px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	line-height: 18px;
+	font-weight:normal;
+}
+.funny_clips_listing li h3 a, .full_episodes_listing li h3 a {
+	color: #0a97cb;
+	font-size: 15px;
+	text-decoration: none;
+	display: block;
+}
+.funny_clips_listing .social_links {
+	margin: 8px 0 20px 17px;
+}
+.funny_clips_listing .social_links a, .full_episodes_listing .social_links a {
+	float: left;
+}
+.funny_clips_listing .social_links a img, .full_episodes_listing li .social_links a img {
+	height: 10px;
+}
+.funny_clips_listing li .video_bg img {
+	width: 303px;
+	height:169px;
+}
+.left_content .wp-pagenavi {
+	font-size: 15px;
+	margin-left: 6px;
+	margin-top: 13px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.left_content .wp-pagenavi a, .left_content .wp-pagenavi span, .left_content .wp-pagenavi span.extend {
+	margin:0;
+	padding: 0;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/pagi-bg.jpg) no-repeat;
+	width: 33px;
+	height:26px;
+	text-align: center;
+	display: block;
+	float: left;
+	color: #555555;
+	text-decoration: none;
+	padding-top: 12px;
+	margin-right: 6px;
+	border: none !important;
+}
+.left_content .wp-pagenavi span {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/pagi-hover.jpg) no-repeat;
+	color: #fff;
+}
+.left_content .wp-pagenavi a.nextpostslink, .left_content .wp-pagenavi a.last, .left_content .wp-pagenavi a.first, .left_content .wp-pagenavi a.previouspostslink {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/pagi-next-bg.jpg) no-repeat;
+	width: 73px;
+	height:38px;
+	text-align: center;
+	display: block;
+	float: left;
+}
+aside .sidebar {
+	float: right;
+	margin-right: 20px;
+	width: 300px;
+}
+#content .sidebar h2 {
+	width: 165px;
+	padding-left: 12px;
+}
+.follow_up {
+	margin: 18px 0 18px 10px;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/follow-us.png) no-repeat;
+	width:291px;
+	height:169px;
+}
+.follow_up .facebook-counter {
+	width:291px;
+	height:52px;
+}
+.follow_up .facebook-counter a {
+	display:block;
+	width:217px;
+	height:19px;
+	padding:33px 0 0 74px;
+	text-decoration:none;
+	font-size: 12px;
+	color:#9e9a96;
+}
+.follow_up .twitter-counter {
+	width:291px;
+	height:51px;
+	margin:10px 0;
+}
+.follow_up .twitter-counter a {
+	display:block;
+	width:217px;
+	height:20px;
+	padding:31px 0 0 74px;
+	text-decoration:none;
+	font-size: 12px;
+	color:#9e9a96;
+}
+.follow_up .youtube-counter {
+	width:291px;
+	height:47px;
+}
+.follow_up .youtube-counter a {
+	display:block;
+	width:291px;
+	height:47px;
+}
+.find_facebook {
+	margin: 6px 0 20px 10px;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/find-facebook.jpg) no-repeat;
+	width: 290px;
+	padding-top: 33px;
+}
+.afv_app {
+	margin-bottom: 18px;
+}
+#bottom_section {
+	margin-top: 30px;
+	padding-left: 110px;
+	width: 878px;
+}
+#bottom_section .widget_text {
+	width: 170px;
+	float: left;
+	margin-right: 37px;
+	font-size: 11px;
+	color: #5a5a5a;
+	line-height: 16px;
+}
+#bottom_section .widget_text h2 {
+	color: #0a97cb;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) bottom repeat-x;
+	padding-bottom: 3px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	text-transform:uppercase;
+	font-weight:normal;
+}
+#bottom_section .widget_text a {
+	color:#5A5A5A;
+	text-decoration:none;
+}
+nav.footer_nav {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/footer-bg.jpg) repeat-x;
+	height: 45px;
+	margin-top: 18px;
+	width: 100%;
+}
+.footer_logo {
+	display: block;
+	float: left;
+	margin: 9px 0 0 21px;
+}
+nav.footer_nav ul {
+	float: left;
+	padding-top: 16px;
+}
+nav.footer_nav ul li {
+	float: left;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/seprater.png) no-repeat right 3px;
+	padding: 0 40px;
+}
+nav.footer_nav ul li a {
+	text-decoration: none;
+	display: block;
+	font-size: 12px;
+	color: #fff;
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	text-transform:uppercase;
+	font-weight:normal;
+}
+nav.footer_nav ul li.last {
+	padding-right: 0px;
+	background-image: none;
+}
+/*nav.footer_nav li a:hover{ color: #fff;}*/
+
+
+
+footer {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/container-bottom-bg.png) no-repeat bottom;
+	width:100%;
+	margin: 0 auto;
+	height: 93px;
+}
+footer .vimdin {
+	display: block;
+	float: left;
+	margin: 22px 0 0 21px;
+}
+footer .fishbowl {
+	display: block;
+	float: right;
+	margin: 7px 23px 0 0;
+}
+.full_episodes_listing li {
+	margin-bottom: 10px
+}
+.full_episodes_listing li h3 {
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	line-height: 18px;
+	font-weight:normal;
+}
+.full_episodes_listing li p {
+	color: #5a5a5a;
+	font-size: 10.5px;
+	line-height: 15px;
+	padding-top: 5px;
+}
+.full_episodes_listing li .clip_info, .home_clip_info {
+	float: left;
+	width: 290px;
+	margin: 0 0 0 9px;
+	padding: 3px 0 0 0;
+}
+.full_episodes_listing li .video_bg, .home_video_bg {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/video-listing-bg.jpg) no-repeat top left;
+	padding: 6px 0 0 7px;
+	float: left;
+	width: 311px;
+	height:180px;
+	position: relative;
+}
+.full_episodes_listing li .video_bg .btn_play, .home_video_bg .btn_play {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-small.png) no-repeat;
+	width: 48px;
+	height: 47px;
+	display: block;
+	top: 68px;
+	left: 135px;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+.full_episodes_listing .social_links {
+	margin: 25px 0 0 0;
+}
+.video_slider {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/video-slider-bg.png) no-repeat;
+	width: 638px;
+	padding: 6px 0 0 0px;
+	margin: -4px 0 0 11px;
+	position: relative;
+	float: left;
+	color: #fff;
+	line-height: 23px;
+	font-size: 18px;
+}
+.video_slider a {
+	text-decoration:none;
+}
+.video_slider .abc_box {
+	top: -107px;
+}
+.video_slider strong {
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-size: 22px;
+	font-weight:normal;
+}
+.video_slider h2 a {
+	font-size: 22px;
+	color: #4ab1d8;
+	text-decoration: none;
+	display: block;
+	margin: 0 0 0 20px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.video_slider .social_links {
+	margin: 10px 0 12px 20px;
+}
+.video_slider .btn_play {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-large.png) no-repeat;
+	width: 69px;
+	height: 70px;
+	display: block;
+	top: 143px;
+	left: 46.3%;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+.video_slider .sep_border {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) repeat-x bottom left;
+	width: 620px;
+	height: 2px;
+	margin: 40px 0 25px 0;
+}
+.slider_right {
+	float: left;
+	width: 300px;
+	margin-left: 19px;
+	margin-top: -6px;
+}
+.slider_right .btn_upload_video {
+	margin: 8px 0 8px 0;
+	display: block;
+}
+.google_ad {
+	margin: 0 0 10px 20px;
+}
+.upload_video {
+	position: relative;
+	width: 980px;
+	margin: -7px 0 0 8px;
+}
+.upload_video .abc_box {
+	top: -107px;
+	left:-179px;
+}
+.upload_video .abc_box.top {
+	top: -107px;
+	left:-179px;
+}
+#content .upload_video h2 {
+	margin-left: 11px;
+	width: 180px;
+}
+.btn_upload_video_large {
+	display: block;
+	float: left;
+}
+.upload_video .sep_border {
+	margin: 18px 0 0 9px;
+}
+.upload-video-box {
+	width:417px;
+	height:118px;
+	padding:300px 0 0 66px;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/upload-video-img.png) no-repeat;
+	float:left;
+}
+.showtimes {
+	float: left;
+	width: 477px;
+	font-size: 12px;
+	color: #828282;
+	line-height: 18px;
+	margin-left: 13px;
+}
+.showtimes .showtimes-inner {
+	padding:0 30px 0 0;
+}
+#content .showtimes h2 {
+	margin: 0;
+	width: 455px;
+	padding-left: 5px;
+	margin-bottom: 15px;
+}
+.showtimes p {
+	padding-left: 6px;
+}
+.showtimes table {
+	margin-top: 10px;
+}
+.showtimes table th {
+	font-size: 15px;
+	color: #42aed6;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	padding: 0 0 2px 6px;
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) repeat-x bottom;
+	font-weight:normal;
+}
+.showtimes table td {
+	padding: 8px 0 0 6px;
+	font-size: 12px;
+}
+.showtimes a {
+	color: #42aed6;
+	text-decoration: none;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+.showtimes strong {
+	color: #545454;
+}
+.find_local_listing {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/find-your-listing-bg.png) no-repeat;
+	width: 442px;
+	height: 390px;
+	padding: 24px 0 0 29px;
+	float: right;
+	margin: -22px 9px 0 0;
+}
+#content .find_local_listing h2 {
+	background-image: none;
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}
+.find_local_listing label {
+	float: left;
+font-family: 'MuseoSans700' font-weight:normal;;
+	font-style: normal;
+	color: #606060;
+	display: block;
+	margin-left: 2px;
+}
+.btn_listing {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/btn-left.jpg) no-repeat left top;
+	height: 27px;
+	line-height: 27px;
+	font-size: 11px;
+	text-decoration: none;
+	float: left;
+	padding-left: 17px;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	color: #5d5d5d;
+	display: block;
+	margin-right: 10px;
+	font-weight:normal;
+}
+.btn_listing span {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/btn-right.jpg) no-repeat right top;
+	display: block;
+	height: 27px;
+	padding-right: 17px;
+}
+.by_location {
+	margin: 33px 0 0 0;
+}
+.by_location label, .timezone label {
+	margin-top: 1px;
+	width: 130px;
+	float: left;
+}
+.zip_code {
+	margin: 32px 0 0 20px;
+}
+.zip_code label {
+	margin-top: 5px;
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	font-weight:normal;
+}
+.zip_code .input_bg {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/input-bg.jpg) no-repeat;
+	width: 145px;
+	height: 28px;
+	float: left;
+	margin: 0 0 0 7px;
+}
+.zip_code .input_bg input[type=text] {
+	width: 107px;
+	padding: 5px;
+	float: left;
+	background: none;
+	border: none;
+	font-size: 12px;
+}
+.zip_code .input_bg input[type=submit] {
+	width: 28px;
+	height:28px;
+	float: left;
+	background: none;
+	border: none;
+	text-indent: -9999px;
+	font-size: 0px;
+	line-height: 0px;
+	display: block;
+	cursor: pointer;
+}
+.service_type {
+	margin: 26px 0 0 20px;
+}
+.service_type label {
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	font-weight:normal;
+}
+.find_local_listing .service_type label, .zip_code label {
+	color: #828282;
+}
+.find_local_listing .service_type label {
+	margin: 5px 18px 0 0;
+}
+.timezone {
+	margin: 48px 0 0 0;
+}
+.timezone_links {
+	margin: 19px 0 0 23px;
+	width: 400px;
+*margin-top: -30px;
+}
+.timezone_links .btn_listing {
+	padding-left: 13px;
+}
+.timezone_links .btn_listing span {
+	padding-right: 13px;
+}
+.radio {
+	display:inline-block;
+	line-height:1;
+	float:none;
+	position:relative;
+	margin:0 5px 5px 0;
+	float: left;
+}
+.radio span {
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/radio-img.jpg) no-repeat;
+	height:16px;
+	width:17px;
+	display:block;
+	margin-top: 1px;
+}
+.radio span.checked {
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/radio-active.jpg) no-repeat;
+	height:17px;
+	margin-top: 0px;
+}
+.funny_clips {
+	margin: 20px 0 20px 1px;
+	display: block;
+}
+#content .funny_clips h2 {
+	width: 200px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+.funny_clips li {
+	float: left;
+	margin-left: 8px;
+}
+.funny_clips li .video_bg_funny {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/funny-clips-bg.png) no-repeat top left;
+	padding: 5px 0 0 6px;
+	float: left;
+	width: 108px;
+	height:82px;
+	position: relative;
+}
+.funny_clips li .video_bg_funny .btn_play {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-img.png) no-repeat;
+	width: 32px;
+	height: 31px;
+	display: block;
+	top: 27px;
+	left: 42px;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+/* -------------------------------------
+
+	-: Scroll Bar Master CSS  :-
+
+--------------------------------------- */
+
+	
+
+.showtimes_content {
+	height: 340px;
+}
+.scrollgeneric {
+	line-height: 1px;
+	font-size: 1px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.vscrollerbase {
+	visibility: visible !important;
+}
+.vscrollerbase {
+	width: 4px;
+}
+.vscrollerbar {
+	width: 3px;
+	background: #b2b1b1;
+	border-left: 1px solid #e7e7e8;
+	border-right: 1px solid #e7e7e8;
+}
+.vscrollerbar, .hscrollerbar {
+	padding: 0px;
+	z-index: 2;
+}
+.scrollerjogbox {
+	width: 4px;
+	height: 15px;
+	top: auto;
+	left: auto;
+	bottom: 0px;
+	right: 0px;
+	background: #4E727C;
+}
+.anythingControls .thumbNav {
+	position: absolute;
+	z-index: 999;
+	left: 254px;
+	top: 400px;
+}
+.anythingControls .thumbNav li {
+	float: left;
+	margin-right: 7px;
+}
+.anythingControls .thumbNav li a {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/slider-nav.png) no-repeat;
+	width: 14px;
+	height: 14px;
+	display: block;
+	text-indent: -9999px;
+}
+.anythingControls .thumbNav li a.cur {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/slider-nav-hover.png) no-repeat;
+}
+.slideshow li {
+	display: none;
+}
+.slideshow li li {
+	display: block;
+}
+.fbConnectWidgetTopmost {
+	border: none !important;
+	width: 0px !important;
+	color: #f2f1ed;
+}
+.upload_form {
+	margin: 20px 0 0 27px;
+}
+.upload_form .fields {
+	clear: both;
+	margin: 10px 0;
+}
+.upload_form label {
+	color: #606060;
+	display: block;
+	float: left;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	width: 150px;
+	margin-top: 2px;
+	float: left;
+	font-weight:normal;
+}
+.upload_form input[type=file] {
+	float: left;
+}
+.upload_form input[type=text] {
+	width: 220px;
+	float: left;
+}
+.upload_form input[type=submit] {
+	margin-left: 150px;
+}
+.upload_form .video_formate {
+	margin: 5px 0 0 153px;
+}
+.upload_form .video_formate span {
+	font-size: 9px;
+	display: block;
+	float: left;
+	margin-right: 5px;
+}
+.upload_box {
+	width:486px;
+	float:left;
+	padding-left:10px;
+}
+#userInput {
+	margin-top:20px;
+}
+#userInput label {
+	color:#0A97CB;
+	font-family: 'MuseoSans700';
+	font-weight:normal;
+	font-style: normal;
+	font-size:13px;
+	text-transform:uppercase;
+	float:left;
+	width:100px;
+	padding-top:4px;
+}
+#userInput input[type=text] {
+	border:1px solid #b9b9b9;
+	padding:5px;
+	margin:0 0 10px;
+	width:374px;
+	border-radius:3px;
+	background:#e9e9e9;
+	float:left;
+}
+#userInput input[type=button] {
+	border:none;
+	width:125px;
+	height:39px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/upload-btn.png) no-repeat;
+	text-indent:-9999px;
+	margin:10px 0 0 100px;
+	cursor:pointer;
+	font-size: 0;
+	line-height: 0;
+	display:block;
+}
+#flashContainer input[type=button] {
+	width:126px;
+	height:39px;
+	border:none;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/select-video.png) no-repeat;
+	text-indent:-9999px;
+	margin:0 0 0 100px;
+	display: block;
+	font-size: 0;
+	line-height: 0;
+}
+.upload_right {
+	width:376px;
+	float:right;
+	color:#5A5A5A;
+	font-size:12px;
+	line-height:20px;
+	padding-right:60px;
+	padding-top: 2px;
+}
+.upload_right h3 {
+	color:#0A97CB;
+	font-size:18px;
+	margin-bottom:5px;
+}
+.thankyoubox {
+	color:#5A5A5A;
+	font-size:12px;
+	line-height:20px;
+	padding-right:60px;
+	padding-left: 20px;
+}
+.thankyoubox a {
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	color: #FE5D32;
+	text-decoration: none;
+	font-weight:normal;
+}
+.thankyoubox a:hover {
+	text-decoration: underline;
+}
+*strong {
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+/*===========For hide box=========*/
+
+#hideBox {
+	padding-top:20px;
+}
+#hideBox label {
+	color:#0A97CB;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-size:13px;
+	text-transform:uppercase;
+	float:left;
+	width:130px;
+	padding-top:4px;
+	font-weight:normal;
+}
+#hideBox input[type=text] {
+	border:1px solid #b9b9b9;
+	padding:5px;
+	margin:0 0 10px;
+	width:335px;
+	border-radius:3px;
+	background:#e9e9e9;
+	float:left;
+}
+#hideBox input[type=button] {
+	border:none;
+	width:104px;
+	height:39px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/finish_btn.png) no-repeat;
+	text-indent:-9999px;
+}
+#hideBox input[type=submit] {
+	border:none;
+	width:125px;
+	height:39px;
+	background:url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/submit-btn.png) no-repeat;
+	text-indent:-9999px;
+	margin:0px 0 0 127px;
+	cursor:pointer;
+	font-size: 0;
+	line-height: 0;
+	display:block;
+}
+#mashsocial {
+	margin-left: 10px !important;
+	margin-bottom:18px !important;
+	margin-top: 19px !important;
+}
+.mashtwitter {
+	padding:15px 0 15px 14px !important;
+}
+#get-mashsocial {
+	padding: 15px !important;
+}
+#get-mashsocial .author-credit a {
+	font-size: 12px !important;
+	font-weight: normal !important;
+	font-family: 'MuseoSans700' !important;
+	font-style: normal !important;
+}
+.video_slider {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/video-slider-bg.png) no-repeat;
+	width: 631px;
+	padding: 6px 0 0 7px;
+	margin: -4px 0 0 11px;
+	position: relative;
+	float: left;
+	color: #fff;
+	line-height: 23px;
+	font-size: 18px;
+}
+.video_slider strong {
+	font-weight: bold;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-size: 22px;
+	font-weight:normal;
+}
+.video_slider .social_links {
+	margin: 10px 0 12px 23px;
+}
+.video_slider .btn_play_home {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/play-large.png) no-repeat;
+	width: 69px;
+	height: 70px;
+	display: block;
+	top: 143px;
+	left: 46.3%;
+	position: absolute;
+	z-index: 99;
+	text-indent: -9999px;
+}
+.video_slider .sep_border {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/border-bg.jpg) repeat-x bottom left;
+	width: 620px;
+	height: 2px;
+	margin: 40px 0 10px 0;
+}
+.video_slider .video_bg {
+	height: 384px;
+}
+#nav {
+	position: absolute;
+	z-index: 999;
+	left: 254px;
+	top: 405px;
+}
+#nav a {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/slider-nav.png) no-repeat;
+	width: 14px;
+	height: 14px;
+	display: block;
+	float: left;
+	text-indent: -9999px;
+	margin-right: 7px;
+}
+#nav a.activeSlide {
+	background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/slider-nav-hover.png) no-repeat;
+}
+.confirm-checkbox {
+	font-size:12px;
+	padding:0 0 0 97px;
+}
+.confirm-checkbox input[type="checkbox"] {
+	float:left;
+	margin-right:8px;
+}
+.confirm-checkbox p {
+	padding:1px 0 0 0;
+	line-height:18px;
+	float:left;
+	width:350px;
+}
+.confirm-checkbox p a {
+	color:#FE5D32;
+}
+.assignment-content {
+	float: left;
+	margin-left: 19px;
+	width: 620px;
+}
+.assignment-content h2 {
+	margin: 0 0 0px 0px !important;
+	padding-left: 18px !important;
+	width:207px !important;
+	float:left;
+	font-weight:normal;
+}
+.assignment-content p {
+	font-family: 'MuseoSans300';
+	font-style: normal;
+	float:left;
+	color:#999999;
+	padding:1px 0 0 3px;
+	font-size: 21px;
+	font-weight:normal;
+}
+.assignment-box { margin-top: 19px;}
+.assignment-box h2 {
+	background:none !important;
+	margin:30px 0 0 21px !important;
+	width:100% !important;
+	padding:0 !important;
+}
+.assignment-box .social_links {
+	margin: 10px 0 0 21px !important;
+}
+.scrollbox {
+	height: 1000px;
+	padding:0 20px 0 0;
+}
+
+@media \0screen {
+  #my_progress_bar_1 { margin-bottom:15px;}
+}
+@media \0screen {
+  .progressbar_text_horizontal { top: -67px !important;}
+}
+.confirm-checkbox {+margin-bottom:15px;}
+
+#my_progress_bar_1 { +margin-bottom:15px;}
+.progressbar_middle { +top:-41px !important;}
+.progressbar_right {+top: -64px !important;}
+.progressbar_text_horizontal { +top:-104px !important;}
+.progressbar_marker { +top:-84px !important;}
+
+.abc_logo_top { width:62px; height:62px; margin:0 0 0 95px;}
+.abc_logo_top a { width:62px; height:62px; display:block; text-indent:-9999px;}
+
+.mashtwitter { border-top: 1px solid #D8E6EB !important;}
+#get-mashsocial span.author-credit {background: url(https://web.archive.org/web/20130426122329im_/http://www.afv.com/wp-content/themes/afv/images/YouTube.png) no-repeat; width:240px; display:block; height:21px;}
+#get-mashsocial span.author-credit a { padding-top:4px; display:block;}
+
+.sweepstake-content {
+	float: left;
+	margin-left: 19px;
+	width: 620px;
+}
+.sweepstake-content h2 {
+	margin: 0 0 0px 0px !important;
+	padding-left: 18px !important;
+	width:220px !important;
+	float:left;
+	font-weight:normal;
+}
+
+.sweepstake-content-box {width: 609px; height: 473px; margin:19px 0 0 0; background: url(https://web.archive.org/web/20130426122329im_/http://afv.com/wp-content/uploads/2012/09/sweepstakes-bg.png) no-repeat; overflow:hidden;}
+.sweepstake-content-box h3 { color:#ffffff; font-size: 30px; font-family: 'MuseoSans700';	font-style: normal;	font-weight:normal; padding-bottom:15px; text-shadow: #0d8299 -4px 3px 2px;}
+.sweepstake-content-box p { color:#ffffff; font-family: 'MuseoSans300';	font-style: normal; font-weight:normal; font-size: 18px; line-height:22px; text-shadow: #0d8299 -4px 3px 2px;}
+.sweepstake-content-box .btn-enter-here { margin:0px 0 0 227px;}
+.sweepstake-content-box a.contest_rules { margin:262px 0 20px 227px; display:block; overflow:hidden; width:356px; height:20px; text-indent:-9999px; text-decoration:none;}
+
+.content_margin_0 { margin:0 !important;}
+
+.blue_font {
+	color: #42aed6 !important;
+	text-decoration: none;
+	font-family: 'MuseoSans700';
+	font-style: normal;
+	font-weight:normal;
+}
+/*
+     FILE ARCHIVED ON 12:23:29 Apr 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:03:00 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.759
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.01
+  esindex: 0.018
+  cdx.remote: 10.536
+  LoadShardBlock: 96.816 (3)
+  PetaboxLoader3.datanode: 118.94 (4)
+  PetaboxLoader3.resolve: 86.173 (2)
+  load_resource: 134.234
+*/

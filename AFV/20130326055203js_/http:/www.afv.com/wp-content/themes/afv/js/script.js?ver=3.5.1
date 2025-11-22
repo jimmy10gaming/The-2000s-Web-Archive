@@ -1,0 +1,72 @@
+var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opens = _____WB$wombat$assign$function_____("opens");
+jQuery.noConflict();
+jQuery(document).ready(function() {
+
+if(jQuery('.slideshow > ul').length)
+jQuery('.slideshow > ul')
+.cycle({ 
+    fx:     'fade', 
+    speed:   1200, 
+    timeout: 6000,
+	pager:  '#nav'
+});
+if(jQuery("input[type='radio']").length)
+	jQuery("input[type='radio']").uniform();
+
+
+// for scrolling
+if(jQuery('.clip_info a').length)
+	jQuery('.clip_info a').click(function(){		
+		  jQuery.scrollTo(jQuery('#toTop'), {
+            duration: 750
+        });
+		var rel = jQuery(this).attr("rel") ;
+		//jQuery('#video_box iframe').attr('src',rel) ;
+		document.getElementById('frmVideo').src = rel ;
+		jQuery('#video_box h2').html(jQuery(this).html())
+		return false;
+		})
+		
+if(jQuery('.video_bg').length)
+			jQuery('.video_bg').click(function(){		
+			  jQuery.scrollTo(jQuery('#toTop'), {
+				duration: 750
+			});
+			 var rel = jQuery('a',this).attr("href") ;
+				document.getElementById('frmVideo').src = rel ;
+		
+			 //jQuery('#video_box iframe').attr('src',rel) ;
+			jQuery('#video_box h2').html(jQuery(this).siblings(".clip_info").find("a").html())
+			return false;
+			})
+		
+});
+}
+/*
+     FILE ARCHIVED ON 13:54:29 Apr 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:03:01 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.527
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.007
+  esindex: 0.01
+  cdx.remote: 8.887
+  LoadShardBlock: 386.316 (3)
+  PetaboxLoader3.datanode: 360.982 (4)
+  load_resource: 94.395
+  PetaboxLoader3.resolve: 38.526
+*/
