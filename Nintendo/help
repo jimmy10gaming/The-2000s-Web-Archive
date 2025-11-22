@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.nintendo.com:80/corp/help.jsp","20090616180528","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1245175528");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Nintendo -Help</title>
+  
+<meta content="TRUE" name="MSSmartTagsPreventParsing"/>
+   <meta content="off" name="autosize"/>
+   <meta content="no" http-equiv="imagetoolbar"/>
+   
+ <!-- <link href="/consumer/assets/css/consumer_new.css" rel="stylesheet" type="text/css"> -->
+<link href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/corp/include/css/corp_new.css" rel="stylesheet" type="text/css">
+
+<script src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/js/consumer_new.js" type="text/javascript" language="javascript"></script>
+
+   <link href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/consumer/assets/nav/css/reset.css" rel="stylesheet" type="text/css"/>
+   <link href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/consumer/assets/nav/css/main.css" rel="stylesheet" type="text/css"/>
+   <link href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/corp/include/nav/css/global_navigation.css" rel="stylesheet" type="text/css"/>
+   <link href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/consumer/assets/nav/css/global_footer.css" rel="stylesheet" type="text/css"/>
+   
+   <!--[if IE 6]>
+      <link href="/consumer/assets/nav/css/main_ie_additions.css" rel="stylesheet" type="text/css" />
+      <link href="/consumer/assets/nav/css/global_navigation_ie_additions.css" rel="stylesheet" type="text/css" />
+      <link href="/consumer/assets/nav/css/global_footer_ie_additions.css" rel="stylesheet" type="text/css" />
+   <![endif]-->
+   
+   <script djconfig="isDebug: false, parseOnLoad: true" src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/nav/js/dojo.js" type="text/javascript"></script>
+   <script src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/nav/js/mojo.js" type="text/javascript"></script>
+   <script src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/nav/js/noa/dist/application.js" type="text/javascript"></script>
+   <script src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/nav/js/mootools.v1.11.js" type="text/javascript"></script>
+   <script src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/nav/js/noa.config" type="text/javascript"></script>
+   
+ <link media="all" href="https://web.archive.org/web/20090616180528cs_/http://www.nintendo.com/consumer/assets/css/corporate.css" type="text/css" rel="stylesheet">
+
+<script language="JavaScript" src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/js/s_code.js"></script>
+<script language="JavaScript" src="https://web.archive.org/web/20090616180528js_/http://www.nintendo.com/consumer/assets/js/omni_head.js"></script>
+
+   
+</head>
+
+<body class="support">
+
+<div id="container">
+
+<!-- topnav -->
+   <h1 class="propertyName"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/">Nintendo of America</a></h1>
+
+    <div id="globalNavigation">
+      <ul id="primaryNav">
+         <li class="major wii"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/wii">Wii</a></li>
+
+         <li class="major ds"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/ds">Nintendo DS</a></li>
+
+         <li class="major games"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/games">Games</a></li>
+
+         <li class="major club"><a href="https://web.archive.org/web/20090616180528/http://club.nintendo.com/">Club Nintendo</a></li>
+
+         <li class="major support"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/">Support</a></li>
+
+      </ul>
+
+      <form method="post" id="globalSearch" action="https://web.archive.org/web/20090616180528/http://www.nintendo.com/search" name="globalSearch">
+         <label for="globalSearchKeyword" class="overlabel" style="display: block;">What are you looking for?</label> <input type="text" value="" name="keyword" id="globalSearchKeyword"/> <input type="image" value="Search" src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/consumer/assets/nav/images/interface/global_header/search-btn.png" class="submit"/>
+      </form>
+
+      <ul id="legalLinks">
+   		<li><a class="level1" href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/manuals/healthsafety.jsp">Health &amp; Safety Precautions</a></li>
+   		<li><a class="level1" href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy">Privacy Policy</a></li>
+   	</ul><!-- /legalLinks -->
+
+
+<!-- Breadcrums -->
+     <div id="breadcrumb">
+         <p>Current Location:</p>
+
+         <ul>
+            <li class="first"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/corp/">Corporate </a></li>
+            <li class="last">Help</li>
+         </ul>
+      </div>
+   </div>
+<!-- end Breadcrums -->
+
+<div class="corpContainer">
+
+<div id="alpha">
+
+<div id="sidebar" class="sidebar">
+<div id="sidebarHeader"> </div>
+<ul class="menu">
+	<li class="minor"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/manuals/index.jsp">Manuals</a></li>
+	<li class="minor"><a href="https://web.archive.org/web/20090616180528/http://store.nintendo.com/" target="_blank">Online Store</a></li>
+	<li class="minor"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/manuals/healthsafety.jsp">Health &amp; Safety Precautions</a></li>
+	<li class="minor"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/parents">Info for Parents</a></li>
+	<li class="minor"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy">Privacy Policy</a></li>
+	<li class="minor"/>
+</ul>
+<div id="sidebarFooter"> </div>
+</div>
+</div>
+
+
+<div class="product_page_content">
+
+<!-- main table layout -->
+<table width="770" cellspacing="0" cellpadding="0" border="0">
+   <tr><!-- main table, column setup -->
+      <td><!-- main table, 1st row, center column -->
+
+         <table cellpadding="0" cellspacing="0" border="0" style="margin:7px 0px;">
+            <tr>
+               <td></td>
+               <td><form>
+               <select class="searchDrop" style="width: 180px;" onchange="if(this.options[this.selectedIndex].value != '') location.href=this.options[this.selectedIndex].value; this.selectedIndex = 0;">
+               <option>Select a help topic here</option>
+               <option value="">----------</option>
+               <option value="#mynin">My Nintendo</option>
+               <option value="#games">Game Guide</option>
+               <option value="#news">News</option>
+               <option value="#parents">Parents</option>
+               <option value="#custservice">Customer Services</option>
+               <option value="#corporate">Corporate</option>
+               <option value="#global">Global</option>
+               <option value="#privacy">Privacy</option>
+               <option value="#store">Store</option>
+               <option value="#contact">Contact</option>
+               <option value="#sitereq">Site Requirements</option>
+               <option value="#cookies">Internet Cookes</option>
+               <option value="#conproblems">Connection Problems</option>
+               </select>
+               </td>
+            </tr>
+         </table>
+         <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" height="1" alt="" border="0"/><br/>
+
+         <br/>
+         <div class="textLoose">
+            <a name="mynin"></a>
+            <b>My Nintendo</b><br/>
+            Creating a My Nintendo Online Membership allows you to manage many of your online activities and communications. Once you create a profile, you have the ability to see which products you’ve registered, change your email, news, and chat preferences, manage your Nintendo Power subscription, view your order history, check on the status of a repair, create and manage Wish Lists, and much more. Parents can determine what access their children have to these services as well, giving them the ability to protect their children's privacy even when they can't be by their side. Enrolling is easy and is open to everyone. Just click on the "My Nintendo" link under the top navigation bar.
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/corp/$model.myNintendoLinks.createNew">Go to My Nintendo</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="games"></a>
+            <b>Game Guide</b><br/>
+            Get the latest news, screenshots, movies, strategy and more on today's hot games, or search our huge
+	database on hundreds of classics. Our powerful search engine features zero in on just the nuggets you want.
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/games">Go to Games</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+            <!--
+            <a name="systems"></a>
+            <b>Systems</b><br />
+            Look for information on Nintendo's hardware platforms in the Systems area.
+            Set-up, accessories and specifications for you tech-heads are all covered here.
+            <br /><br />
+            <div class="bulletLeft"><a href="/systems">Go to Systems</a></div>
+            -->
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+
+            <a name="news"></a>
+            <b>News</b><br/>
+            Just the facts, man! You won't find rumor or speculation here in Nintendo's
+            News area. We only provide confirmed, official news straight from the source. If
+            you're looking for wild conjecture about games that will never come out, check
+            the fan sites. If you want to confirm the truth, start here.
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/newsmain">Go to News</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+
+            <a name="parents"></a>
+            <b>Parents</b><br/>
+            This area of our website is tailored to address the special concerns of parents. Topics
+            include selecting the right game for your family, details about our privacy policy, and
+            after-sale support for our products.
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/parents">Go to Parents</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="custservice"></a>
+            <b>Customer Service</b><br/>
+            Are you having problems hooking up your system? Is your system no longer working as it
+            should? The Customer Service area helps you get your system back in operating condition.
+            We also have an extensive list of frequently asked questions that can help you find
+            answers to other questions you may have.
+
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer">Go to Customer Service</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="corporate"></a>
+            <b>Corporate</b><br/>
+            Nintendo's Corporate Information area is your source for the latest news and information about the Nintendo company. Here, you'll find frequently updated press items, our annual report, job postings, and more.
+
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/corp">Go to Corporate</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="global"></a>
+            <b>Global</b><br/>
+            Nintendo is a multinational company. Nintendo's subsidiaries and distributors maintain websites in countries from Argentina to Sweden. If you are inquiring about a product purchased in another country, or are curious about how Nintendo products are marketed around the world, the Global section is the place to look.
+
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/global">Go to Global</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="store"></a>
+            <b>Store</b><br/>
+            Nintendo's online store is your ultimate destination if you wish to find replacement parts, purchase back issues or Player's Guides, or subscribe to Nintendo Power. We have an extensive catalog for you to browse, with convenient shopping cart and sort features to make your purchases as easy and simple as possible.
+
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://store.nintendo.com/" onclick="openx(this.href); return false;">Go to Store</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="contact"></a>
+            <b>Contact</b><br/>
+            Want to email our staff? Don't know our address or phone number? The Contact area of the site provides a list of addresses, email contacts, and phone numbers to assist you in getting the help you need.
+
+            <br/><br/>
+            <div class="bulletLeft"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/gamelist">Go to Game List</a></div>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="sitereq"></a>
+            <b>Site Requirements</b><br/>
+            Nintendo.com works best with Microsoft Internet Explorer 6.0 and up. FireFox 2 and up and Safari 3.0 are also supported. The recommended screen resolution is 1024x768, and you should have at least a 56.6 k modem. A broadband connection is recommended. For some areas of the site you will also need the Adobe Acrobat viewer. Shockwave Flash is also required, and is included with most browsers or can be downloaded separately. Users whose systems do not meet these requirements may still be able to use the site but their experience may not be ideal.<br/><br/>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="cookies"></a>
+            <b>Internet Cookies</b><br/>
+            The Nintendo.com site does use cookies. Most areas of the site should function with cookies turned off (this is an option available on most browsers), however, to enjoy all areas of the site you should have cookies turned on. For more information about Nintendo's use of Internet cookies, please see our <a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy">Privacy Policy</a>.
+
+            <br/><br/>
+
+            <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" vspace="5" height="1" alt="" border="0"/><br/>
+
+            <a name="conproblems"></a>
+            <b>Connection Problems</b><br/>
+            Nintendo.com is hosted on a very robust server farm and is rarely, if ever, completely unavailable. Please be aware that there are many factors that go into a satisfactory Internet experience, including the performance of your computer and modem, the performance of your Internet Service Provider's infrastructure and even the level of traffic on the Internet. At Nintendo.com we do our best to provide a fun and functional web site but we cannot be responsible for the operation of other Internet variables.
+
+            <br/><br/>
+
+         </div>
+
+         <img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/hr_406.gif" width="406" height="1" alt="" vspace="5" border="0"/><br/>
+         <div align="right"><a href="help#top" class="textWhite">Back to top<img src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/corp/img/icons/icon_back_top.gif" width="10" height="10" alt="" border="0"/></a></div>
+
+      </td>
+      <!-- main table, 1st row, right column -->
+   </tr>
+</table>
+</div>
+
+</div>
+
+   	<div id="footer">
+		<ul>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer">Customer Service</a> (<a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/index.jsp">English</a> / <a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/francais/index.jsp">French</a> / <a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/espanol/index.jsp">Spanish</a>)</li>
+
+			<li><a href="https://web.archive.org/web/20090616180528/http://store.nintendo.com/">Online Store</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/corp">Corporate</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/countryselector">Global</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy">Privacy</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/help">Help</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/parents">Parents</a></li>
+
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/contact">Contact</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/consumer/manuals/healthsafety.jsp">Health &amp; Safety Manual</a></li>
+			<li><a href="https://web.archive.org/web/20090616180528/http://nintendo.ca/">Nintendo of Canada</a></li>
+		</ul>
+		<p class="footerBug"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/copyright">©2007 Nintendo. Games are property of their respective owners.</a><br/>Nintendo of America Inc. Headquarters are in Redmond, Washington</p>
+
+		<img alt="" class="footer-logo" src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/images/icons/nintendo-footer-logo.jpg"/>
+		<a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/feed" rel="alternate"><img alt="" class="footer-rss" src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/images/icons/rss-logo.jpg"/></a>
+		<div class="footer-esrb">
+		  <p><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy" target="_blank" title="Nintendo's Privacy Policy">Nintendo's Privacy Policy</a></p>
+		  <p class="esrb-badge"><a href="https://web.archive.org/web/20090616180528/http://www.nintendo.com/privacy" target="_blank"><img alt="" src="https://web.archive.org/web/20090616180528im_/http://www.nintendo.com/images/icons/esrb_privacy.gif"/></a></p>
+		</div>
+	</div>
+
+</div>
+</body>
+</html><!--
+     FILE ARCHIVED ON 18:05:28 Jun 16, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:44:35 Nov 22, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.703
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.011
+  esindex: 0.013
+  cdx.remote: 16.907
+  LoadShardBlock: 178.252 (3)
+  PetaboxLoader3.datanode: 122.198 (4)
+  PetaboxLoader3.resolve: 96.147 (3)
+  load_resource: 79.521
+-->
